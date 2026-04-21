@@ -23,7 +23,7 @@ The dashboard analyzes COVID-19 trends across multiple countries, focusing on:
 - `Screenshot.png` → Dashboard Preview
 
 ## 📸 Dashboard Preview
-Screenshot 2026-04-21 185522.png
+![Dashboard]()
 
 ---
 
@@ -34,3 +34,4 @@ Screenshot 2026-04-21 185522.png
 
 ---
 
+⭐ If you like this project, feel free to give it a star!
