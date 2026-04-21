@@ -44,4 +44,3 @@ This dashboard analyzes COVID-19 trends across multiple countries, focusing on:
 
 ---
 
-⭐ If you like this project, feel free to give it a star!
